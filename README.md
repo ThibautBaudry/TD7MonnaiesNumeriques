@@ -22,8 +22,8 @@ Question 5) https://rinkeby.etherscan.io/tx/0x5058856a464cfe7021857b6091f1238270
 ![Alt text](https://github.com/ThibautBaudry/TD7MonnaiesNumeriques/blob/main/liquidity.png?raw=true "Optional Title")
 
 Question 6) \
-TX:  \
-Token:  \
-![Alt text](https://github.com/ThibautBaudry/TD7MonnaiesNumeriques/blob/main/.png?raw=true "Optional Title")
-![Alt text](https://github.com/ThibautBaudry/TD7MonnaiesNumeriques/blob/main/.png?raw=true "Optional Title")
+TX: https://rinkeby.etherscan.io/tx/0xa4a97f14d2bba5a1b24a6b1b5fe20ff64324def1c7647dc126eb144f86f8dce2 \
+Token: https://rinkeby.etherscan.io/token/0xee18a222f15b2b7cbd595c66d7420e3d275a25c6 \
+![Alt text](https://github.com/ThibautBaudry/TD7MonnaiesNumeriques/blob/main/LiquidityTokenMN.png?raw=true "Optional Title")
+![Alt text](https://github.com/ThibautBaudry/TD7MonnaiesNumeriques/blob/main/CreateToken.png?raw=true "Optional Title")
 
