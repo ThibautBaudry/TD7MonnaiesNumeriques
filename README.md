@@ -25,7 +25,7 @@ Question 5)  Provide liquidity to token 0xc7FfF638Ea11817CA05533F4Ec497632cfE07e
 https://rinkeby.etherscan.io/tx/0x5058856a464cfe7021857b6091f12382707e71ec76c614c8490b52204c64552e
 ![Alt text](https://github.com/ThibautBaudry/TD7MonnaiesNumeriques/blob/main/liquidity.png?raw=true "Optional Title")
 
-Question 6) Deploy an ERC20 Token (0xYYYY) (2pts) \
+Question 6) Deploy an ERC20 Token (0xYYYY) (2pts) 
 
 Token: https://rinkeby.etherscan.io/token/0xee18a222f15b2b7cbd595c66d7420e3d275a25c6 \
 ![Alt text](https://github.com/ThibautBaudry/TD7MonnaiesNumeriques/blob/main/CreateToken.png?raw=true "Optional Title")
@@ -34,3 +34,8 @@ Question 7) Create a liquidity pool for your token 0xYYYY (2pts)
 
 TX: https://rinkeby.etherscan.io/tx/0xa4a97f14d2bba5a1b24a6b1b5fe20ff64324def1c7647dc126eb144f86f8dce2 \
 ![Alt text](https://github.com/ThibautBaudry/TD7MonnaiesNumeriques/blob/main/LiquidityTokenMN.png?raw=true "Optional Title")
+
+Question 8) Create a contract (0xZZZZ) that can hold your token 0xYYYY and deposit it in the Uniswap pool (2pts)
+
+TX Creation DepositorContract: https://rinkeby.etherscan.io/tx/0x87f3bcc737ea1d04dc2b98f59d8d86a2313e88258f3b29fa367dfd87f101b686
+![Alt text](https://github.com/ThibautBaudry/TD7MonnaiesNumeriques/blob/main/CreateDepositor.png?raw=true "Optional Title")
