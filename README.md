@@ -1,3 +1,5 @@
 # TD7MonnaiesNumeriques
 
-testeest
+Question 1)
+
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
