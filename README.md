@@ -2,8 +2,8 @@
 
 Question 1)
 
-![Alt text](https://github.com/ThibautBaudry/TD7MonnaiesNumeriques/blob/main/Configure%Infura.png?raw=true "Optional Title")
-![Alt text](https://github.com/ThibautBaudry/TD7MonnaiesNumeriques/blob/main/Configure%Truffle.png?raw=true "Optional Title")
+![Alt text](https://github.com/ThibautBaudry/TD7MonnaiesNumeriques/blob/main/Configure%20Infura.png?raw=true "Optional Title")
+![Alt text](https://github.com/ThibautBaudry/TD7MonnaiesNumeriques/blob/main/Configure%20Truffle.png?raw=true "Optional Title")
 
 Question 2)
 
